@@ -23,7 +23,7 @@ $ java -version
 java version "1.8.0_201"
 ```
 
--   A package and dependancy manager, for example [Maven](https://maven.apache.org/) or [Gradle](https://gradle.org/install/)
+-   A package and dependency manager, for example [Maven](https://maven.apache.org/) or [Gradle](https://gradle.org/install/)
 -   An IDE (Integrated development environment), for this tutorial, we use [Eclipse](https://www.eclipse.org/downloads/)
 
 ## Start a new project

@@ -16,13 +16,17 @@ In this section, Java developers can get started with Blockchain and Ethereum to
 
 ### [Listening for Ethereum Smart Contract Events with Java](events.md)
 
-### [Running a Pantheon Node in Java Integration Tests](pantheon_testing.md)
-
 ### [Installing & Configuring the Pantheon Client](installing-and-setting-up-Pantheon.md) - Felipe
 
 Step by step process to install / configure Pantheon client on linux/\_mac/\_windows
 
 * * *
+
+## Section 1: Coming later
+
+_Still awaiting review_
+
+### [Running a Pantheon Node in Java Integration Tests](pantheon_testing.md)
 
 ## Section 2: Intermediary
 
