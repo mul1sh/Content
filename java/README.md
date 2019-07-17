@@ -10,36 +10,13 @@ In this section, Java developers can get started with Blockchain and Ethereum to
 
 ### [Manage an Ethereum account with Java and Web3j](manage-accounts.md)
 
-### [Generate a Java Wrapper from your Smart Contract](generate-java-wrapper.md) - greg
+### [Generate a Java Wrapper from your Smart Contract](generate-java-wrapper.md)
 
-###### Cli
+### [Interact with a Smart Contract using Java](interacting.md)
 
-Install command line tool (web3j) and run the command
+### [Listening for Ethereum Smart Contract Events with Java](events.md)
 
-###### Maven
-
-<https://github.com/web3j/web3j-maven-plugin>
-
-###### Gradle
-
-<https://github.com/web3j/web3j-gradle-plugin>
-
-### [Interact with a Smart Contract](interacting.md) - Craig
-
-Deployment
-Function (call/transaction)
-
-### [Listen Smart Contract events](events.md) - Craig
-
-Observable
-Filters
-
-Reference to Eventeum for more robust and complex usecase
-
-### [Testing](pantheon_testing.md) - Craig
-
-Junit
-embedded Pantheon
+### [Running a Pantheon Node in Java Integration Tests](pantheon_testing.md)
 
 ### [Installing & Configuring the Pantheon Client](installing-and-setting-up-Pantheon.md) - Felipe
 
